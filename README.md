@@ -1,4 +1,4 @@
-# Kiwi-Challenge
-Min KIWI Challenge – besøk alle KIWI-butikker i Norge
-KIWI Challenge – nettside under utvikling
+# Trumf-Jeger
+Trumf Jeger – besøk alle Trumf-butikker i Norge
+Trumf Jeger – nettside under utvikling
 eller en kort tekst
